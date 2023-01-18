@@ -1,9 +1,12 @@
 # ASTOUNDINGLY_game
-ASTOUNDINGLY was a game created for FBLA computer game and simulation. 
-The game is based off of WORDLE a game that was very popular throughout 2022. 
-In this game you are given six tries to guess a five letter word, if guessed correctly you can continue on to six letters or retry starting at five letters. 
-Once the player gets to twelve letters and gets the word right they have finished the game and can restart from five letters. 
-The game is coded in python and utilizes the library pygame to create a window to play the game. 
+ASTOUNDINGLY was a game created for FBLA computer game and simulation.
+The game is based off of WORDLE a game that was very popular throughout 2022.
+In this game you are given six tries to guess a five letter word,
+if guessed correctly you can continue on to six letters or retry starting at five letters.
+Once the player gets to twelve letters and gets the word right they have finished the game and can restart if wanted.
+The game is coded in python and utilizes the library pygame to create a window to play the game.
 The game also uses 50000 words from the english language to create the repository of words that can be used as answers.
-To play the game right after downloading open up main.exe which will open up Microsoft Defender SmartScreen click More info and then click run anyway.
-Command prompt will open and Pygame will open and the game will start
+To play the game right after downloading open up ASTOUNDINGLY_executable.exe.
+This will open up Microsoft Defender SmartScreen click More info and then click run anyway.
+Command prompt will open and Pygame will open and the game will start.
+To open the source code open ASTOUNDINGLY_code.py
